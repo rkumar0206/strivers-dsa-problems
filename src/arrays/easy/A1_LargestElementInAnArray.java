@@ -3,7 +3,7 @@ package arrays.easy;
 import java.util.Arrays;
 import java.util.OptionalInt;
 
-public class LargestElementInAnArray {
+public class A1_LargestElementInAnArray {
 
     public static void main(String[] args) {
 

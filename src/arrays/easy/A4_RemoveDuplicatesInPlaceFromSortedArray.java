@@ -2,7 +2,7 @@ package arrays.easy;
 
 import java.util.Arrays;
 
-public class RemoveDuplicatesInPlaceFromSortedArray {
+public class A4_RemoveDuplicatesInPlaceFromSortedArray {
 
     public static void main(String[] args) {
 

@@ -2,7 +2,7 @@ package arrays.easy;
 
 import java.util.stream.IntStream;
 
-public class CheckIfAnArrayIsSorted {
+public class A3_CheckIfAnArrayIsSorted {
 
     public static void main(String[] args) {
 

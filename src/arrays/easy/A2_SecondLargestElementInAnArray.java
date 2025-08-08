@@ -2,7 +2,7 @@ package arrays.easy;
 
 import java.util.Arrays;
 
-public class SecondLargestElementInAnArray {
+public class A2_SecondLargestElementInAnArray {
 
     public static void main(String[] args) {
 
