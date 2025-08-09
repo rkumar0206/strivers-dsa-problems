@@ -2,7 +2,7 @@ package arrays.easy;
 
 import util.Util;
 
-public class A5_RotateArrayToLeftBy_D_Place {
+public class A6_RotateArrayToLeftBy_D_Place {
 
     public static void main(String[] args) {
 
